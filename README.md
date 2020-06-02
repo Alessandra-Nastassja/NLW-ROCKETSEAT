@@ -10,7 +10,11 @@ Tecnologias utilizadas:
 
 * Node
 * Typescript
-* EXpress 
+* Express 
+
+*Front-end*
+
+* React
 
 ******
 
