@@ -12,3 +12,8 @@ Tecnologias utilizadas:
 * Typescript
 * EXpress 
 
+******
+
+Aulas:
+
+* #1 Aula (Conceitos e ambiente) - 01/06: :heavy_check_mark:
