@@ -9,6 +9,7 @@ Aulas:
 
 * #1 Aula (*Conceitos e ambiente*) - 01/06: :heavy_check_mark:
 * #2 Aula (*Back-end da aplicação*) - 02/06: :heavy_check_mark:
+* #3 Aula (*Back-end da aplicação*) - 03/06: :warning:
 
 ******
 Tecnologias utilizadas:
@@ -18,7 +19,6 @@ Tecnologias utilizadas:
 * Node & NPM
 * Typescript
 * Express (Rotas)
-* Knex.js 
 
 *Front-end*
 
