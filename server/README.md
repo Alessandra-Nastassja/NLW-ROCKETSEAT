@@ -20,7 +20,7 @@ Em um terminal digite o seguinte comando abaixo para **rodar**:
 npm run dev
 ```
 
-> Obs.: Dentro da pasta /server/src.
+> Obs.: Dentro da pasta /server/src. O projeto esta rodando no *http://localhost:3334/*.
 
 ******
 *Banco de dados*
