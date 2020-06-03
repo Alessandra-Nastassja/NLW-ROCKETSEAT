@@ -5,14 +5,14 @@ Projeto destinado para o desenvolvimento da Next Level Week da @Rocketseat.
 
 ******
 
-Aulas:
+Aulas: ⭐️
 
 * #1 Aula (*Conceitos e ambiente*) - 01/06: :heavy_check_mark:
 * #2 Aula (*Back-end da aplicação*) - 02/06: :heavy_check_mark:
 * #3 Aula (*Back-end da aplicação*) - 03/06: :warning:
 
 ******
-Tecnologias utilizadas:
+Tecnologias utilizadas: 🖥️
 
 *Back-end*
 
@@ -30,14 +30,14 @@ Tecnologias utilizadas:
 
 ******
 
-Como rodar ?
+Como rodar ? 🚀
 
 *Back-end*
 
 [Rodando o back-end](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/server/README.md)
 
 ******
-Ferramentas utilizadas:
+Ferramentas utilizadas: 🔨
 
 * [Insomnia.rest]() - *Para requisições REST*
 * [Notion.so](https://www.notion.so/) - *Para anotações*
