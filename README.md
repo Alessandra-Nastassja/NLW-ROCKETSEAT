@@ -4,20 +4,42 @@
 Projeto destinado para o desenvolvimento da Next Level Week da @Rocketseat.
 
 ******
-### Tecnologias utilizadas: 🚀
+
+Aulas:
+
+* #1 Aula (*Conceitos e ambiente*) - 01/06: :heavy_check_mark:
+* #2 Aula (*Back-end da aplicação*) - 02/06: :heavy_check_mark:
+
+******
+Tecnologias utilizadas:
 
 *Back-end*
 
-* Node
+* Node & NPM
 * Typescript
-* Express 
+* Express (Rotas)
+* Knex.js 
 
 *Front-end*
 
 * React
 
+*Banco de dados*
+
+* Knex (Sqlite3) 
+
 ******
 
-### Aulas:  ⭐️
+Como rodar ?
 
-- #1 Aula (Conceitos e ambiente) - 01/06: :heavy_check_mark:
+*Back-end*
+
+![Rodando o back-end]()
+
+******
+Ferramentas utilizadas:
+
+* [Insomnia.rest]() - *Para requisições REST*
+* [Notion.so](https://www.notion.so/) - *Para anotações*
+* [Whimsical](https://whimsical.com/) - *Para crição de fluxos/wireframes*
+* [Figma](https://www.figma.com/) - *Para criar protótipos*
