@@ -32,7 +32,7 @@ Projeto destinado para o desenvolvimento da Next Level Week da @Rocketseat.
 
 ### Como rodar ? 🚀
 
-[Rodando o back-end](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/server/README.md)
+[Back-end/Banco](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/server/README.md)
 
 ******
 ### Ferramentas utilizadas: 🔨
