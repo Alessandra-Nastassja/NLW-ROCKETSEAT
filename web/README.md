@@ -11,11 +11,12 @@ Tecnologias usadas: 🖥️
 
 * React-Icons 
 * React Leaflet
+* IBGE API
 
 ******
 ## Dicas: 📌
 
-Uso da extensão **Emmet** nativa do VS code.
+* Uso da extensão **Emmet** nativa do VS code.
 
 No seu editor de código VS Code, aperte ctrl + shift + p. Na janela que abrir escreva Json e selecione a opção de **Preferences: Open Settings (Json)**. Ao clicar na opção irá abrir o arquivo *settings.json*, ele digite o seguinte comando:
 
@@ -25,3 +26,8 @@ No seu editor de código VS Code, aperte ctrl + shift + p. Na janela que abrir e
 ```
 
 > Obs.: Usada para poder escrever código HTML dentro de arquivos js.
+
+
+* Dicas de sintaxe do Typescript + React
+
+Clique [aqui](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
