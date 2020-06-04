@@ -6,6 +6,12 @@ Aqui as coisas são mais "lindas"!  😉
 Clique [aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A548) para ver.
 
 ******
+
+Tecnologias usadas: 🖥️
+
+* React-Icons 
+
+******
 ## Dicas: 📌
 
 Uso da extensão **Emmet** nativa do VS code.
