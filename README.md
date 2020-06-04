@@ -9,7 +9,7 @@
 * 2º (**Back-end da aplicação**) - 02/06: :heavy_check_mark:
 * 3º (**Front-end web do app**) - 03/06: :heavy_check_mark:
 * 4º (**Mobile do app**) - 04/06: :heavy_check_mark:
-* 5º (**Mobile do app**) - 04/06: :warning:
+* 5º (**Mobile do app**) - 05/06: :warning:
 
 ******
 
