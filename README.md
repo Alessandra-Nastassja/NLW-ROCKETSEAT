@@ -8,7 +8,8 @@
 * 1º (**Conceitos e ambiente**) - 01/06: :heavy_check_mark:
 * 2º (**Back-end da aplicação**) - 02/06: :heavy_check_mark:
 * 3º (**Front-end web do app**) - 03/06: :heavy_check_mark:
-* 4º (**Front-end web do app**) - 04/06: :warning:
+* 4º (**Mobile do app**) - 04/06: :heavy_check_mark:
+* 5º (**Mobile do app**) - 04/06: :warning:
 
 ******
 
@@ -37,12 +38,16 @@ Segue abaixo a documentação de como rodar o back-end, front-end e o banco de d
 
 * Knex (Sqlite3) 
 
+*Mobile*
+
+* Expo
+
 ******
 ## Resultado :heavy_check_mark:
 
-O layout esta disponínel no []()
+O layout esta disponínel no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546)
 
-!()
+![](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/web/src/assets/captured.gif)
 
 ******
 ### Ferramentas utilizadas: 🔨
