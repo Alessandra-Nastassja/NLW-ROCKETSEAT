@@ -26,21 +26,21 @@ Segue abaixo a documentação de como rodar o back-end, front-end e o banco de d
 
 *Back-end*
 
-* Node & NPM
-* Typescript
-* Express (Rotas)
+* [Node & NPM](https://nodejs.org/en/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Express](https://expressjs.com/pt-br/) (Rotas)
 
 *Front-end*
 
-* React
+* [React](https://pt-br.reactjs.org/)
 
 *Banco de dados*
 
-* Knex (Sqlite3) 
+* [Knex](http://knexjs.org/) (Sqlite3) 
 
 *Mobile*
 
-* Expo
+* [Expo](https://expo.io/)
 
 ******
 ## Resultado :heavy_check_mark:
