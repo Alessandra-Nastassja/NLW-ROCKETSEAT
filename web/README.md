@@ -10,6 +10,7 @@ Clique [aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=
 Tecnologias usadas: 🖥️
 
 * React-Icons 
+* React Leaflet
 
 ******
 ## Dicas: 📌
