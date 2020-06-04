@@ -1,17 +1,26 @@
-![Screenshot from 2020-06-01 21-29-38](https://user-images.githubusercontent.com/27302446/83467108-5e519d00-a44f-11ea-89d5-5b2bdbc54923.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27302446/83758118-e69a9280-a647-11ea-8854-6b174e36754e.jpg" />
+</p>
+<p align="center">Projeto destinado para o desenvolvimento da Next Level Week da @Rocketseat.</p>
 
-# NLW-ROCKETSEAT
-Projeto destinado para o desenvolvimento da Next Level Week da @Rocketseat.
+## Aulas: ⭐️
+
+* 1º (**Conceitos e ambiente**) - 01/06: :heavy_check_mark:
+* 2º (**Back-end da aplicação**) - 02/06: :heavy_check_mark:
+* 3º (**Front-end web do app**) - 03/06: :heavy_check_mark:
+* 4º (**Front-end web do app**) - 04/06: :warning:
 
 ******
 
-### Aulas: ⭐️
+## Como rodar ? 🚀
 
-* #1 Aula (*Conceitos e ambiente*) - 01/06: :heavy_check_mark:
-* #2 Aula (*Back-end da aplicação*) - 02/06: :heavy_check_mark:
-* #3 Aula (*Front-end web do app*) - 03/06: :warning:
+Segue abaixo a documentação de como rodar o back-end, front-end e o banco de dados.
 
-******
+[Back-end | Banco](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/server/README.md)
+[ | Front-end](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/web/README.md)
+
+> Obs.: O back-end e o banco de dados deste projeto se encontra na pasta **server**. Já o front-end na pasta chamada **web**.
+
 ### Tecnologias utilizadas: 🖥️
 
 *Back-end*
@@ -29,10 +38,11 @@ Projeto destinado para o desenvolvimento da Next Level Week da @Rocketseat.
 * Knex (Sqlite3) 
 
 ******
+## Resultado :heavy_check_mark:
 
-### Como rodar ? 🚀
+O layout esta disponínel no []()
 
-[Back-end/Banco](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/server/README.md)
+!()
 
 ******
 ### Ferramentas utilizadas: 🔨
