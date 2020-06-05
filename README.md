@@ -67,3 +67,4 @@ O layout esta disponínel no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0M
 * [Whimsical](https://whimsical.com/) - *Para crição de fluxos/wireframes*
 * [Figma](https://www.figma.com/) - *Para criar protótipos*
 * [Unplash](https://unsplash.com/) - *Para download de images free*
+* [Shields](https://shields.io/category/version)
