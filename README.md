@@ -3,6 +3,16 @@
 </p>
 <p align="center">Projeto destinado para o desenvolvimento da Next Level Week da @Rocketseat.</p>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/Alessandra-Nastassja/NLW-ROCKETSEAT?color=%2304D361">
+  <a href="https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alessandra-Nastassja/NLW-ROCKETSEAT">
+  </a>
+  <a href="https://www.linkedin.com/in/alessandra-nastassja/">
+    <img alt="Made by Alessandra Nastassja" src="https://img.shields.io/badge/made%20by-AlessandraNastassja-%2304D361">
+  </a>
+</p>
+
 ## Aulas: ⭐️
 
 * 1º (**Conceitos e ambiente**) - 01/06: :heavy_check_mark:
