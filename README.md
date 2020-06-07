@@ -30,7 +30,7 @@ Segue abaixo a documentação de como rodar o back-end, front-end e o banco de d
 [Back-end | Banco](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/server/README.md)
 [ | Front-end](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/web/README.md)
 
-> Obs.: O back-end e o banco de dados deste projeto se encontra na pasta **server**. Já o front-end na pasta chamada **web**. Além do app que esta na pasta de **mobile**.
+> Obs.: O back-end e o banco de dados deste projeto se encontra na pasta **server**. Já o front-end na pasta chamada **web**. Além do app que esta na pasta de **app**.
 
 ### Tecnologias utilizadas: 🖥️
 
