@@ -68,3 +68,8 @@ O layout esta disponínel no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0M
 * [Figma](https://www.figma.com/) - *Para criar protótipos*
 * [Unplash](https://unsplash.com/) - *Para download de images free*
 * [Shields](https://shields.io/category/version)
+
+******
+### Como rolou esta semana ? 🙀
+
+Para ter mais detalhes sobre o que rolou, saber mais sobre as tecnologias abordadas etc. Estou colocando aqui um [link](https://www.notion.so/NLW-ebe3b642e8184d25b60bf569d3aa921d) de uma super **documentação** criada e compartilhada pela [@nymalone](https://github.com/nymalone). 😻
