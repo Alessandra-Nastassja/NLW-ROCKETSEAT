@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/alessandra-nastassja/">
     <img alt="Made by Alessandra Nastassja" src="https://img.shields.io/badge/made%20by-AlessandraNastassja-%2304D361">
   </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
 ## Aulas: ⭐️
@@ -60,6 +61,12 @@ O layout esta disponínel no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0M
 ![](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/web/src/assets/captured.gif)
 
 ******
+### Como rolou esta semana ? 🙀
+
+Para ter mais detalhes sobre o que rolou, saber mais sobre as tecnologias abordadas etc. 
+Estou colocando aqui um [link](https://www.notion.so/NLW-ebe3b642e8184d25b60bf569d3aa921d) de uma super **documentação** criada e compartilhada pela [@nymalone](https://github.com/nymalone). 😻
+
+******
 ### Ferramentas utilizadas: 🔨
 
 * [Insomnia.rest]() - *Para requisições REST*
@@ -70,6 +77,30 @@ O layout esta disponínel no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0M
 * [Shields](https://shields.io/category/version)
 
 ******
-### Como rolou esta semana ? 🙀
 
-Para ter mais detalhes sobre o que rolou, saber mais sobre as tecnologias abordadas etc. Estou colocando aqui um [link](https://www.notion.so/NLW-ebe3b642e8184d25b60bf569d3aa921d) de uma super **documentação** criada e compartilhada pela [@nymalone](https://github.com/nymalone). 😻
+## Como contribuir ? 😽
+
+* Dê um **fork** esse repositório;
+![]()
+
+* Após, crie uma **branch** com a sua feature:
+
+```
+git checkout -b my-feature
+```
+
+* Agora, **commit** suas mudanças: 
+
+```
+git commit -m 'feat: My new feature'
+```
+
+* E por último, **push** a sua branch: 
+
+```
+git push origin my-feature
+```
+
+******
+Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
