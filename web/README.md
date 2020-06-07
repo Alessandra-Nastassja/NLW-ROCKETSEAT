@@ -31,3 +31,10 @@ No seu editor de código VS Code, aperte ctrl + shift + p. Na janela que abrir e
 * Dicas de sintaxe do Typescript + React
 
 Clique [aqui](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+
+* Deploy
+
+Olá existe vários lugares para realizar deploy da sua aplicação, como por exemplo:
+
+* Netlify/Vercel
+* Amazon S3/Google Cloud Storage

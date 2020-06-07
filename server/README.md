@@ -40,3 +40,14 @@ knex:seed
 ```
 
 Obs.: Para mais detalhes, estes comandos também estão presentes no arquivo *package.json*.
+
+******
+## Dicas: 📌
+
+* Deploy
+
+Olá existe vários lugares para realizar deploy da sua aplicação, como por exemplo:
+
+* Heroku
+* Digital Ocean
+* AWS/Google Cloud/ Microsoft Azure
