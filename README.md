@@ -103,4 +103,4 @@ git push origin my-feature
 
 ******
 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/LICENSE) para mais detalhes.
