@@ -86,7 +86,7 @@ Estou colocando aqui um [link](https://www.notion.so/NLW-ebe3b642e8184d25b60bf56
 * Após, crie uma **branch** com a sua feature:
 
 ```
-git checkout -b my-feature
+git checkout -b feature/my-feature
 ```
 
 * Agora, **commit** suas mudanças: 
