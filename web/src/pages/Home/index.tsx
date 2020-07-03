@@ -34,8 +34,10 @@ const Home = () => {
                 <div className="content">
                     <label>Pontos de coleta</label>
                     <div>
-                        <input type="text" placeholder="Pesquise por cidade"/>
-                        <FiSearch/>
+                        <input type="text" />
+                        <button>    
+                            <FiSearch id="lupa"/>
+                        </button>
                     </div>
                 </div>
             </div>         
