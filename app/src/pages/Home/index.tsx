@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Feather as Icon } from "@expo/vector-icons";
 import {
   View,
@@ -9,11 +9,18 @@ import {
   TextInput,
   KeyboardAvoidingView,
   Platform,
+  Picker,
 } from "react-native";
 import { RectButton } from "react-native-gesture-handler";
 import { useNavigation } from "@react-navigation/native";
+import axios from "axios";
+
+interface IBGEUFResponse {
+  sigla: string;
+}
 
 const Home = () => {
+  const [initials, setInitials] = useState<string[]>([]);
   const [uf, setUf] = useState('');
   const [city, setCity] = useState('');
 
@@ -25,6 +32,15 @@ const Home = () => {
       city,
     });
   }
+
+  useEffect(() => {
+    axios.get<IBGEUFResponse[]>("https://servicodados.ibge.gov.br/api/v1/localidades/estados")
+      .then((response) => {
+        const ufInitials = response.data.map((uf) => uf.sigla).sort();;
+
+        setInitials(ufInitials);
+      })
+  }, )
 
   return (
     <KeyboardAvoidingView
