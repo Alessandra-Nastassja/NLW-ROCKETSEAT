@@ -35,8 +35,8 @@ interface Point {
 }
 
 interface Params {
-  uf: string;
-  city: string;
+  selectedUf: string;
+  selectedCity: string;
 }
 
 const Points = () => {
@@ -66,7 +66,7 @@ const Points = () => {
         return;
       }
 
-      const location = await Location.getCurrentPositionAsync();
+      const location = await Location.getCurrentPositionAsync({accuracy:Location.Accuracy.High})
 
       const { latitude, longitude } = location.coords;
 
@@ -81,10 +81,11 @@ const Points = () => {
   useEffect(() => {
     api.get('points', {
       params:{
-        city: routeParams.city,
-        uf: routeParams.uf,
+        city: routeParams.selectedCity,
+        uf: routeParams.selectedUf,
         items: selectedItems
       }
+      
     }).then(response => {
       setPoints(response.data)
     })
