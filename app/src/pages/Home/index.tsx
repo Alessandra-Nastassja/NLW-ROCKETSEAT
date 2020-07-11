@@ -43,10 +43,6 @@ const Home = () => {
   const navigation = useNavigation();
 
   function handleNavigateToPoints() {
-    console.log(selectedUf,
-      selectedCity);
-    
-
     navigation.navigate("Points", {
       selectedUf,
       selectedCity,
