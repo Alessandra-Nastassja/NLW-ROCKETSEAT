@@ -114,16 +114,16 @@ const Home = () => {
         </View>
         <View style={styles.footer}>
           <RNPickerSelect
-            placeholder={{ label: "Informe sua UF", value: null }}
-            value={selectedCity}
-            onValueChange={(value) => setSelectedCity(value)}
-            items={city}
-          />
-          <RNPickerSelect
             placeholder={{ label: "Informe seu estado ", value: null }}
             value={selectedUf}
             onValueChange={(value) => setSelectedUf(value)}
             items={uf}
+          />
+          <RNPickerSelect
+            placeholder={{ label: "Informe sua UF", value: null }}
+            value={selectedCity}
+            onValueChange={(value) => setSelectedCity(value)}
+            items={city}
           />
           <RectButton style={styles.button} onPress={handleNavigateToPoints}>
             <View style={styles.buttonIcon}>
