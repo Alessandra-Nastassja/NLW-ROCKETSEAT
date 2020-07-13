@@ -17,3 +17,6 @@ Como ter acesso as fontes do Google só que no **Expo**, basta clicar [aqui](htt
 * Para navegar entre telas
 
 Para ir de um ponto ao outro da nossa aplicação foi utilizado a lib **React Navigation**, veja [aqui](https://reactnavigation.org/docs/getting-started).
+
+******
+## Resultado: ✔️
