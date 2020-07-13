@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "ecoleta",
-    "slug": "Ecoleta",
+    "name": "Ecoleta",
+    "slug": "ecoleta",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
