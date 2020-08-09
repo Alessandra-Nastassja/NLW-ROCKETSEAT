@@ -56,8 +56,6 @@ Segue abaixo a documentação de como rodar o back-end, front-end e o banco de d
 ******
 ## Resultado :heavy_check_mark:
 
-O layout esta disponínel no [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546)
-
 ![](https://github.com/Alessandra-Nastassja/NLW-ROCKETSEAT/blob/master/web/src/assets/captured.gif)
 
 ******
